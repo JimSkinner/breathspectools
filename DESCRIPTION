@@ -1,0 +1,10 @@
+Package: breathspectools
+Title: Tools for working with BreathSpec data
+Version: 0.0.0.9000
+Authors@R: person("Jim", "Skinner", email = "j.r.skinner@warwick.ac.uk", role = c("aut", "cre"))
+Description: Tools for working with BreathSpec data
+Depends: R (>= 3.1.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
